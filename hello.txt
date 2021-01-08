@@ -3,6 +3,3 @@ hello world
 dev push 1
 
 dev push 2
-
-
-dev push 3
